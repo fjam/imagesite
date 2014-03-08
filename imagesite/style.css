@@ -1,0 +1,56 @@
+﻿body {
+    background-image: url(http://i.imgur.com/DKV7Ckj.jpg);
+    background-position: center;
+    color: #595441;
+    font: 16px/30px verdana,arial,sans-serif;
+}
+
+#footer {
+    text-align:center;
+    color:red;
+}
+
+#header {
+    text-align:center;
+    font-size:30px;
+    color:red;
+    background: #2f2f2f;
+    width: 250px;
+    border-radius:8px;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;
+    box-shadow: 0px 3px 5px #000;
+    -moz-box-shadow: 0px 3px 5px #000;
+    -webkit-box-shadow: 0px 3px 5px #000;
+}
+
+::selection {
+    background:#85BF25;
+}
+
+::-moz-selection {
+    background:#85BF25;
+}
+
+.popup-gallery {
+    text-align: center;
+}
+
+.pic {
+    background: #2f2f2f;
+    text-align: center;
+    width: 250px;
+    border-radius:8px;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;
+    box-shadow: 0px 3px 5px #000;
+    -moz-box-shadow: 0px 3px 5px #000;
+    -webkit-box-shadow: 0px 3px 5px #000;
+}
+
+.pic:active {
+    top:3px;
+    box-shadow:none;
+    -moz-box-shadow:none;
+    -webkit-box-shadow:none;
+}
