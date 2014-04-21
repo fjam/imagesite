@@ -10,6 +10,6 @@ Features:
 
 2) Delete page.
 
-3) Gridview of all uploaded documents.
+3) Gridview of all uploaded pictures.
 
 4) Professional CSS3 and jquery design. 
